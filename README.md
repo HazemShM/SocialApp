@@ -29,8 +29,12 @@ You can start developing by editing the files inside the **app** directory. This
 
 # Home Page:
 
-![alt text](<WhatsApp Image 2025-02-11 at 13.02.45_ee92eb51.jpg>)
+<img src="WhatsApp Image 2025-02-11 at 13.02.45_ee92eb51.jpg" alt="Home Page" width="400">
 
 # Post Details and Comment Section:
 
-![alt text](<WhatsApp Image 2025-02-11 at 13.02.45_df18867a.jpg>)
+<img src="WhatsApp Image 2025-02-11 at 13.02.45_df18867a.jpg" alt="Post Details" width="400">
+
+## Time Taken For Development
+
+Took me 3 Hours to complete because the api posts and users were messed up so had to create them all
