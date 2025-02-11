@@ -31,7 +31,8 @@ In the output, you'll find options to open the app in a
 
 # Post Details and Comment Section:
 
-<img src="WhatsApp Image 2025-02-11 at 13.02.45_df18867a.jpg" alt="Post Details" width="400">
+<img src="WhatsApp Image 2025-02-11 at 13.26.43_74b8aab6.jpg" alt="Post Details" width="200">
+<img src="WhatsApp Image 2025-02-11 at 13.26.38_1227edd1.jpg" alt="Post Details" width="200">
 
 ## Time Taken For Development
 
